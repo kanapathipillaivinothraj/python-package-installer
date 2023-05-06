@@ -1,0 +1,5 @@
+pillow
+beautifulsoup4
+openai
+pyttsx3
+pytz
